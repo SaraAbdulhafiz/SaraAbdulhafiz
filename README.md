@@ -23,7 +23,7 @@
 
 
 ### 📧 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/sara-abdulhafiz-910652222/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-abdulhafiz-910652222/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](saraabdulhafiz20@gmail.com) 
 
 <br>
@@ -70,10 +70,6 @@
 <br>
 
 #### Backend
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=ffffff)
-![Flask](https://img.shields.io/badge/Flask-%23404d59.svg?style=flat&logo=Flask&logoColor=%2361DAFB)
-![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat&logo=rest&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=ffffff)
 <br>
 
