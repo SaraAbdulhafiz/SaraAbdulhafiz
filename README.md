@@ -1,7 +1,7 @@
 
 
   <h3 align="center">
-𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐚𝐡𝐦𝐨𝐮𝐝 𝐌𝐚𝐧𝐬𝐲'𝐬 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
+𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 Sara Abdulhafiz'𝐬 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -11,7 +11,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🏢 𝑩𝒊𝒐𝒎𝒆𝒅𝒊𝒄𝒂𝒍 𝑫𝒂𝒕𝒂 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝑼𝒏𝒅𝒆𝒓𝒈𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝒘𝒊𝒕𝒉 𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.
+- 🏢 Graduated From Computer Sciecnce  𝒘𝒊𝒕𝒉 𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.
 
 - 👨‍💻 𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒊𝒏 𝑭𝒊𝒈𝒎𝒂, 𝑻𝒂𝒊𝒍𝒘𝒊𝒏𝒅 𝑪𝑺𝑺, 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑻𝒚𝒑𝒆𝑺𝒄𝒓𝒊𝒑𝒕, 𝒆𝒏𝒉𝒂𝒏𝒄𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝒖𝒔𝒆𝒓 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆𝒔.
 
@@ -23,10 +23,8 @@
 
 
 ### 📧 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=&logoColor=black)](https://mahmoud-mansy-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-mansy-a189a5232/)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mahmoud2abdalfattah@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/201010352387) 
+[![LinkedIn](https://www.linkedin.com/in/sara-abdulhafiz-910652222/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](saraabdulhafiz20@gmail.com) 
 
 <br>
 
@@ -114,7 +112,7 @@
 
 ### 📈 GitHub Stats
 
-![Mahmoud's github](https://github-readme-stats.vercel.app/api?username=MMansy19&show_icons=true&hide_border=true)
+![sara's github](https://github-readme-stats.vercel.app/api?username=MMansy19&show_icons=true&hide_border=true)
 
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MMansy19&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
